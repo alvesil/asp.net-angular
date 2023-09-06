@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria\\Pizzaria.csproj": {}
+    "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria\\Pizzaria.csproj": {
+    "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria\\Pizzaria.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria.csproj",
         "projectName": "Pizzaria",
-        "projectPath": "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria\\Pizzaria.csproj",
+        "projectPath": "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria\\obj\\",
+        "outputPath": "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

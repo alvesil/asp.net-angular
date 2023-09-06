@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VzaSTQpJT/7d2T7WxVe/uAUka4HNq6GYPt17ksaOd/6GH2YYFZoMMe3CK2HHoDbH6QfHtvdDu7wsCZv6BIaqVQ==",
+  "dgSpecHash": "zTZ2bnh1rP3pkvtZARgonzuOFRafe6iZoNIs9MxCp6btYAfYuwPJCQHqFYb23EKm7SJMBmbQKVM02RyKpmzDWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria\\Pizzaria.csproj",
+  "projectFilePath": "C:\\Users\\Eduardo\\Desktop\\asp.net-angular\\Pizzaria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
